@@ -10,7 +10,7 @@ public class Main {
 	for(int i=0;i<n;i++)
 	    ar[i]=sc.nextInt();
 
-	//The main logic of the program is from here:
+	//Main logic of the program is from here:
 	int f = (int)Math.floor(n/k);
 	int count=0;
 
